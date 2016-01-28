@@ -34,8 +34,8 @@ In this section, please report:
 
 Solution:
 1. Hexadecimal representation of 1205182 is 0x1263be.
-2. 
 
+2. 
 $$\int_0^{\infty} e^{-x}*{sin{x}/x} dx = \frac{{\pi}}{4}.$$
 
 3.
