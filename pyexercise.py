@@ -1,7 +1,11 @@
 import sympy as sy
 import numpy as np
 
+<<<<<<< HEAD
 def fun_1( my_id ):
+=======
+def fun_1( y_id ):
+>>>>>>> 4327bf8c7fd781d02173958fc0d3e9b0a5ec31a2
     ans = hex(my_id)
     return ans
 
