@@ -1,7 +1,7 @@
 import sympy as sy
 import numpy as np
 
-def fun_1( my_id ):
+def fun_1( y_id ):
     ans = hex(my_id)
     return ans
 
